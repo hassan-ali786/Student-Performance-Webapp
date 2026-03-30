@@ -186,6 +186,7 @@ http://127.0.0.1:5000
 ---
 
 Hassan Ali  
+Data Scientist & ML Engineer
 
 GitHub:  
 https://github.com/Hassan-Ali786

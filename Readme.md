@@ -189,7 +189,7 @@ Hassan Ali
 Data Scientist & ML Engineer
 
 GitHub:  
-https://github.com/Hassan-Ali786
+https://github.com/hassan-ali786
 
 ---
 

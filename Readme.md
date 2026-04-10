@@ -83,29 +83,21 @@ Best performing model:
 
 ## **Project Structure**
 ---
-
-```bash
 student-performance-predictor/
-
-data/
-    students.csv
-
-model/
-    best_model.pkl
-
-templates/
-    index.html
-    result.html
-
-static/
-    css/style.css
-
-train_model.py
-app.py
-requirements.txt
-README.md
-```
-
+├── data/
+│   └── students.csv
+├── model/
+│   └── best_model.pkl
+├── templates/
+│   ├── index.html
+│   └── result.html
+├── static/
+│   └── css/
+│       └── style.css
+├── train_model.py
+├── app.py
+├── requirements.txt
+├── README.md
 ---
 
 ## **Technologies Used**

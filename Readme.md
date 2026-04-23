@@ -81,10 +81,10 @@ Best performing model:
 
 ---
 
-## **Project Structure**
----
+## Project Structure
+
+```bash
 student-performance-predictor/
-bash
 ├── data/
 │   └── students.csv
 ├── model/
@@ -98,8 +98,9 @@ bash
 ├── train_model.py
 ├── app.py
 ├── requirements.txt
-├── README.md
----
+└── README.md
+```
+
 
 ## **Technologies Used**
 ---

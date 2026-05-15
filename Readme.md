@@ -95,7 +95,7 @@ student-performance-predictor/
 ├── static/
 │   └── css/
 │       └── style.css
-├── train_model.py
+├── train_models.py
 ├── app.py
 ├── requirements.txt
 └── README.md

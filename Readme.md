@@ -163,7 +163,6 @@ python app.py
 http://127.0.0.1:5000
 ```
 
----
 
 ## **Future Improvements**
 ---
@@ -188,6 +187,5 @@ https://github.com/hassan-ali786
 ---
 
 ## **License**
----
 
 This project is licensed under the MIT License.

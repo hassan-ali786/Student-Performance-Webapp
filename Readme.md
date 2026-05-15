@@ -86,7 +86,7 @@ Best performing model:
 ```bash
 student-performance-predictor/
 ├── data/
-│   └── students.csv
+│   └── StudentsPerformance.csv
 ├── model/
 │   └── best_model.pkl
 ├── templates/

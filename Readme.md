@@ -130,7 +130,7 @@ cd student-performance-predictor
 ### 2 Install Dependencies
 
 ```bash
-pip install flask pandas scikit-learn matplotlib
+pip install requirements.txt
 ```
 
 ---

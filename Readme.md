@@ -1,5 +1,4 @@
-# Student Performance Predictor (Flagship ML Project)
-
+# Student Performance Predictor 
 ---
 
 ## **Overview**

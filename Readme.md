@@ -130,7 +130,7 @@ cd student-performance-predictor
 ### 2 Install Dependencies
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ---

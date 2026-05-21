@@ -122,7 +122,7 @@ student-performance-webapp/
 
 ```bash
 git clone https://github.com/hassan-ali786/student-performance-webapp.git
-cd student-performance-predictor
+cd student-performance-webapp
 ```
 
 ---

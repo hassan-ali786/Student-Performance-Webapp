@@ -121,7 +121,7 @@ student-performance-webapp/
 ### 1 Clone the Repository
 
 ```bash
-git clone https://github.com/hassan-ali786/student-performance-predictor.git
+git clone https://github.com/hassan-ali786/student-performance-webapp.git
 cd student-performance-predictor
 ```
 

@@ -84,7 +84,7 @@ Best performing model:
 ## Project Structure
 
 ```bash
-student-performance-predictor/
+student-performance-webapp/
 ├── data/
 │   └── StudentsPerformance.csv
 ├── model/
